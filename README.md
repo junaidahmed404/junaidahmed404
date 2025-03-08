@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @junaidahmed404
-- 👀 I’m interested in Programming No Matter Programming in What Feild, It Can be web Dev, Cyber Security, App Dev etc
-- 🌱 I’m currently learning Website Developmemt, MERN Stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by Email: bhattijunaidahmed404@gmail.com
-- 😄 Pronouns: I am a Man, I am He, Him
-- ⚡ Fun fact: You Can Call Me A PullStack Developer cuz I Just Pull Things From Internet and Put it in my Code
+👋 Hi, I’m Junaid Ahmed
+👀 Passionate about programming, no matter the field—Web Dev, Cyber Security, App Dev, and more!
+🌱 Currently learning MERN Stack & Web Development
+💡 Always open to collaborating on exciting projects
+📫 Reach me via Email: bhattijunaidahmed404@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: You can call me a "PullStack Developer"—I just pull things from the internet and put them in my code! 😆
 
 <!---
 junaidahmed404/junaidahmed404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
