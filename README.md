@@ -57,8 +57,8 @@ A **full-fledged MERN stack application** for managing hospital operations seaml
 ### 🌟 Authentication Service  
 A **standalone authentication service** integrated into HMS, using **JWT & OAuth** for seamless security.  
 - **Tech Stack:** Node.js, Express, MongoDB, Zustand  
-- 🔗 <a href="https://junaidahmed404.github.io/Private_Repo_Notice/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-  <a href="https://github.com/junaidahmed404/auth-service" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+- 🔗 [Live Demo](https://junaidahmed404.github.io/Private_Repo_Notice/) | [GitHub Repo](https://github.com/junaidahmed404/auth-service)  
+
 
 ---
 
