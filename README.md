@@ -23,7 +23,7 @@ I'm **Junaid Ahmed**, a passionate **Full-Stack Developer** who loves to dive in
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=junaidahmed404&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmed404&theme=radical" />
 </p>
 
 
