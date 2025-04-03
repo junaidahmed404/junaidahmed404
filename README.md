@@ -49,16 +49,15 @@ I'm **Junaid Ahmed**, a passionate **Full-Stack Developer** who loves to dive in
 
 ## 🛠️ Projects  
 
-### 🚑 Hospital Management System (HMS)  
-A **full-fledged MERN stack application** for managing hospital operations seamlessly.  
-- **Tech Stack:** React, Node.js, Express, MongoDB, Zustand  
-- 🔗 [Live Demo](https://junaidahmed404.github.io/Private_Repo_Notice/) | [GitHub Repo](https://junaidahmed404.github.io/Private_Repo_Notice/)  
-
 ### 🌟 Authentication Service  
 A **standalone authentication service** integrated into HMS, using **JWT & OAuth** for seamless security.  
 - **Tech Stack:** Node.js, Express, MongoDB, Zustand  
 - 🔗 [Live Demo](https://junaidahmed404.github.io/Private_Repo_Notice/) | [GitHub Repo](https://github.com/junaidahmed404/auth-service)  
 
+### 🚑 Hospital Management System (HMS)  
+A **full-fledged MERN stack application** for managing hospital operations seamlessly.  
+- **Tech Stack:** React, Node.js, Express, MongoDB, Zustand  
+- 🔗 [Live Demo](https://junaidahmed404.github.io/Private_Repo_Notice/) | [GitHub Repo](https://junaidahmed404.github.io/Private_Repo_Notice/)
 
 ---
 
