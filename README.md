@@ -21,9 +21,11 @@ I'm **Junaid Ahmed**, a passionate **Full-Stack Developer** who loves to dive in
   <img src="https://github-readme-stats.vercel.app/api?username=junaidahmed404&show_icons=true&theme=radical" alt="Junaid's GitHub Stats" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmed404&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=junaidahmed404&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
