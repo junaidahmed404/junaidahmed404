@@ -1,6 +1,6 @@
 # 🚀 Junaid Ahmed (@junaidahmed404)  
 
-## Hi there My Friend! 👋  
+## Hi there! 👋  
 
 I'm **Junaid Ahmed**, a passionate **Full-Stack Developer** who loves to dive into **Web Development, Cyber Security, and App Development**. No matter the field, if it's **coding**, I'm in! 😃  
 
